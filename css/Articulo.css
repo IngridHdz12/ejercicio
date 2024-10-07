@@ -9,6 +9,8 @@
   top: 0;
   background-color: #581005;
   height: 80px;
+  width: 100%;
+  
 }
 #barra #titulo {
   line-height: 80px;
@@ -16,6 +18,7 @@
   font-size: 30px;
   font-weight: 700;
   color: white;
+  text-align: center;
 }
 #contenedor-principal {
   display: flex;
